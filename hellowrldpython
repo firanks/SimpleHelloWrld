@@ -1,0 +1,29 @@
+Python: print("Hello World!")
+
+Lua: print("Hello World!")
+
+Java: 
+public class HelloWorld (
+    public static void main(String[] args) (
+      System.out.println("Hello World!")  
+    )
+)
+
+sql: print 'Hello World!'
+
+C++:
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  cout << "Hello, World!" << endl;
+  
+  return 0;
+}
+
+
+PHP:
+echo "Hello World!";
